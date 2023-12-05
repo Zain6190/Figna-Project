@@ -1,1 +1,1 @@
-# Figna-Project
+# Figma-Project
